@@ -1,10 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1> PREVISÃO DO TEMPO EM ReactJS</H1>
 
-## Available Scripts
+<h2> Consumo de API de previsão do tempo desenvolvida em ReactJS. </h2>
 
-In the project directory, you can run:
+API do site https://openweathermap.org/
+
+=) happy Hacking.!
+
 
 ### `npm start`
 
